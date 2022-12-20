@@ -18,3 +18,19 @@ ospo 学习资料
 
 # slides
 
+
+# videos
+- 【OSCTraining】-【2021-11】
+  - [开源项目办公室-企业拥抱开源101入门公开课](https://www.bilibili.com/video/BV1qg411N7wX/)
+  - [企业拥抱开源——开源项目办公室进阶篇](https://www.bilibili.com/video/BV1F34y1q7Sd/)
+- 【KubeCon China 2021】 - 【2021-12】
+  - [走进 OSPO：是统筹人还是扰乱者](https://www.bilibili.com/video/BV1V34y167vW/)
+- 【开源雨林】 - 【2022-10】
+  - [如何做好 OSPO，推动企业开源（上）](https://www.bilibili.com/video/BV1HR4y1R78L)
+  - [如何做好 OSPO，推动企业开源（中）](https://www.bilibili.com/video/BV1ER4y1R7hL/)
+  - [如何做好 OSPO，推动企业开源（下）](https://www.bilibili.com/video/BV1hG411j7tK/)
+
+# events
+
+
+
