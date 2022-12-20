@@ -42,6 +42,8 @@ ospo 学习资料
   - [如何做好 OSPO，推动企业开源（下）](https://www.bilibili.com/video/BV1hG411j7tK/)
 
 # events
+- [OSPOCon 2021](https://events.linuxfoundation.org/archive/2021/ospocon/)
+- [OSPOCon Europe 2021](https://events.linuxfoundation.org/archive/2021/ospocon-europe/)
 - [OSPO Summit 2022](https://ospo.events/)
 
 
