@@ -44,6 +44,7 @@ ospo 学习资料
 # events
 - [OSPOCon 2021](https://events.linuxfoundation.org/archive/2021/ospocon/)
 - [OSPOCon Europe 2021](https://events.linuxfoundation.org/archive/2021/ospocon-europe/)
+- [OSPO Con Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/)
 - [OSPO Summit 2022](https://ospo.events/)
 
 
