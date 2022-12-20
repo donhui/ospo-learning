@@ -10,7 +10,7 @@ ospo 学习资料
   - 官网：https://ospoplusplus.com/
   - 成立时间：2020年
   - GitHub：https://github.com/ospoplusplus
-- 欧盟 OSPO 联盟
+- OSPO Alliance
   - 官网：https://ospo.zone/
   - 成立时间：2021年6月
 - 开源社 ONES Group
