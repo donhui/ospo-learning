@@ -6,6 +6,10 @@ ospo 学习资料
   - 官网：https://todogroup.org/
   - 成立时间：2014年9月
   - GitHub：https://github.com/todogroup
+- OSPO++
+  - 官网：https://ospoplusplus.com/
+  - 成立时间：2020年
+  - GitHub：https://github.com/ospoplusplus
 - 欧盟 OSPO 联盟
   - 官网：https://ospo.zone/
   - 成立时间：2021年6月
