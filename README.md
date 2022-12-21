@@ -18,10 +18,14 @@ ospo 学习资料
   - GitHub：https://github.com/kaiyuanshe/ONES/
 
 # blogs
+- 2021-07
+  - [OSPO 星火已点燃，盼加入共燎原](https://my.oschina.net/LFAPAC/blog/5133999)
 - 2022-04
   - [OSPO 如何帮助保护你的软件供应链](https://my.oschina.net/u/3727380/blog/5515799)
 - 2022-05
   - [大厂争先成立的 “开源办公室” 有啥门道？](https://my.oschina.net/oscpyaqxylk/blog/5531190)
+- 2022-06
+  - [开源项目办公室（OSPO）在高等教育中的兴起](https://mp.weixin.qq.com/s/OnKNwuKQgvpllVMwQB0kyw)
 - 2022-07
   - [字节跳动加入 OSPO 群聊， 将投入超十人全职团队](https://my.oschina.net/oscpyaqxylk/blog/5553117)
   - [开源办公室（OSPO）大揭秘](https://my.oschina.net/oscpyaqxylk/blog/5553035)
@@ -48,7 +52,7 @@ ospo 学习资料
 # events
 - [OSPOCon 2021](https://events.linuxfoundation.org/archive/2021/ospocon/)
 - [OSPOCon Europe 2021](https://events.linuxfoundation.org/archive/2021/ospocon-europe/)
-- [OSPO Con Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/)
+- [OSPOCon Japan](https://events.linuxfoundation.org/open-source-summit-japan/about/ospocon/)
 - [OSPO Summit 2022](https://ospo.events/)
 
 
