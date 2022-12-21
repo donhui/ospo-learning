@@ -34,9 +34,22 @@ ospo 学习资料
 - 2022-08
   - [OSPO 五阶段成熟度模型解析](https://my.oschina.net/u/5782644/blog/5560851)
 
- 
-# slides
 
+## sap ospo
+- 2019-01
+  - [SAP: One of Open Source’s Best Kept Secrets](https://www.linuxfoundation.org/blog/blog/sap-one-of-open-sources-best-kept-secrets)
+- 2020-02
+  - [SAP’s Open Source Outbound Process – From scattered and tedious to streamlined and automated](https://blogs.sap.com/2020/02/19/saps-open-source-outbound-process-from-scattered-and-tedious-to-streamlined-and-automated/)
+- 2021-09 
+  - [Managing Open Source Software with an Open Source Program Office](https://blogs.sap.com/2021/09/23/managing-open-source-software-with-an-open-source-program-office/)
+- 2021-10
+  - [How SAP Manages Open Source Software with an Open Source Program Office](https://blogs.sap.com/2021/10/28/how-sap-manages-open-source-software-with-an-open-source-program-office/)
+
+# slides
+- 2019-03
+  - [SAP OSPO: How to Manage Open Source at Scale in a Global Enterprise?](slides/2019-03/OSLS_2019_SAP_OSPO_Peter_Giese.pdf)
+- 2021-12
+  - [SAPs Open Source Program Office Overview](slides/2021-12/20211210_ext_ospo_onramp_sap_ospo_overview.pdf)
 
 # videos
 - 【OSCTraining】-【2021-11】
