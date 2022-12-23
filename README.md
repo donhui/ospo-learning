@@ -52,6 +52,9 @@ ospo 学习资料
   - [SAPs Open Source Program Office Overview](slides/2021-12/20211210_ext_ospo_onramp_sap_ospo_overview.pdf)
 - 2022-07
   - [《开源观止》第 2 期](slides/2022-07/opensource-guanzhi-20220707.pdf)
+- 2022-09
+  - [OSPO案例汇编（第一期）](slides/2022-09/OSPO案例汇编（第一期）.pdf)
+
 # videos
 - 【OSCTraining】-【2021-11】
   - [开源项目办公室-企业拥抱开源101入门公开课](https://www.bilibili.com/video/BV1qg411N7wX/)
