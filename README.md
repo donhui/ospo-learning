@@ -18,6 +18,8 @@ ospo 学习资料
   - GitHub：https://github.com/kaiyuanshe/ONES/
 
 # blogs
+
+## chinese blogs
 - 2021-07
   - [OSPO 星火已点燃，盼加入共燎原](https://my.oschina.net/LFAPAC/blog/5133999)
 - 2022-04
@@ -34,6 +36,9 @@ ospo 学习资料
 - 2022-08
   - [OSPO 五阶段成熟度模型解析](https://my.oschina.net/u/5782644/blog/5560851)
 
+## english blogs
+- 2020-07
+  - [Does Your Organization Need an Open Source Program Office?](https://thenewstack.io/does-your-organization-need-an-open-source-program-office/)
 
 ## sap ospo blogs
 - 2019-01
