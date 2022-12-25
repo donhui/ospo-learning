@@ -40,7 +40,7 @@ ospo 学习资料
 - 2020-07
   - [Does Your Organization Need an Open Source Program Office?](https://thenewstack.io/does-your-organization-need-an-open-source-program-office/)
 
-## sap ospo blogs
+## sap blogs
 - 2019-01
   - [SAP: One of Open Source’s Best Kept Secrets](https://www.linuxfoundation.org/blog/blog/sap-one-of-open-sources-best-kept-secrets)
 - 2020-02
@@ -51,6 +51,12 @@ ospo 学习资料
   - [Managing Open Source Software with an Open Source Program Office](https://blogs.sap.com/2021/09/23/managing-open-source-software-with-an-open-source-program-office/)
 - 2021-10
   - [How SAP Manages Open Source Software with an Open Source Program Office](https://blogs.sap.com/2021/10/28/how-sap-manages-open-source-software-with-an-open-source-program-office/)
+
+## red hat blogs
+- 2019-12
+  - [What does an open source program office do?](https://www.redhat.com/en/blog/what-does-open-source-program-office-do?channel=/zh/blog/channel/red-hat-open-source-program-office)
+- 2021-02
+  - [Why have an open source program office?](https://www.redhat.com/en/resources/open-source-program-office-brief)
 
 # slides
 - 2019-03
