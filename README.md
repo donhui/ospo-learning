@@ -29,9 +29,9 @@ ospo 学习资料
 - 2022-06
   - [开源项目办公室（OSPO）在高等教育中的兴起](https://mp.weixin.qq.com/s/OnKNwuKQgvpllVMwQB0kyw)
 - 2022-07
-  - [字节跳动加入 OSPO 群聊， 将投入超十人全职团队](https://my.oschina.net/oscpyaqxylk/blog/5553117)
   - [开源办公室（OSPO）大揭秘](https://my.oschina.net/oscpyaqxylk/blog/5553035)
   - [方法论：蚂蚁集团关于 OSPO 的思考](https://my.oschina.net/oscpyaqxylk/blog/5553121)
+  - [字节跳动加入 OSPO 群聊， 将投入超十人全职团队](https://my.oschina.net/oscpyaqxylk/blog/5553117)
   - [金融科技 OSPO 先行者， 微众银行如何干？](https://my.oschina.net/oscpyaqxylk/blog/5553150)
 - 2022-08
   - [OSPO 五阶段成熟度模型解析](https://my.oschina.net/u/5782644/blog/5560851)
