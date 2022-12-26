@@ -37,6 +37,11 @@ ospo 学习资料
   - [OSPO 五阶段成熟度模型解析](https://my.oschina.net/u/5782644/blog/5560851)
 
 ## english blogs
+- 2016-05
+  - [What is an open source program office? And why do you need one?](https://opensource.com/business/16/5/whats-open-source-program-office)
+- 2016-09
+  - [How Google created a new kind of open source program office](https://opensource.com/business/16/9/google-open-source-program-office)
+  - [4 big ways companies benefit from having open source program offices](https://opensource.com/business/16/9/4-big-ways-companies-benefit-having-open-source-program-offices)
 - 2020-07
   - [Does Your Organization Need an Open Source Program Office?](https://thenewstack.io/does-your-organization-need-an-open-source-program-office/)
 
