@@ -7,7 +7,9 @@ ospo 学习资料
   - 成立时间：2014年9月
   - GitHub：https://github.com/todogroup
 - OSPO++
-  - 官网：https://ospoplusplus.com/
+  - 官网：
+    - https://ospoplusplus.com/
+    - https://ospoplusplus.org/
   - 成立时间：2020年
   - GitHub：https://github.com/ospoplusplus
 - OSPO Alliance
